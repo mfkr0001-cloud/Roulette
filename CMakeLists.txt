@@ -14,4 +14,3 @@ endif()
 
 add_subdirectory($ENV{GEODE_SDK} ${CMAKE_CURRENT_BINARY_DIR}/geode)
 setup_geode_mod(${PROJECT_NAME})
-package_geode_resources(${PROJECT_NAME} ${CMAKE_CURRENT_SOURCE_DIR}/resources resources)
