@@ -1,0 +1,12 @@
+{
+  "geode": "v5.11.2",
+  "gd": {
+    "android": "2.2081"
+  },
+  "id": "mfkr0001.level_roulette",
+  "name": "Level Roulette",
+  "version": "v0.1.0",
+  "developer": "mfkr0001",
+  "description": "A customizable roulette wheel for choosing Geometry Dash levels from your saved list.",
+  "tags": ["gameplay", "utility"]
+}
